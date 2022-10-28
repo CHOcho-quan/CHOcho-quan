@@ -1,12 +1,9 @@
-Hi I'm Quan!
+#### Hi I'm Quan!
 
-🔭 SJTU -> UCSD
-
-🎸 Guitar / Violin / Anime
-
-🤔 Love Mathematics / Robotics / Coding
-
-🧗🏻‍♀️ Hiking / Climbing / General Outdoor Activity
+- 🔭 SJTU -> UCSD
+- 🎸 Guitar / Violin / Anime
+- 🤔 Love Mathematics / Robotics / Coding
+- 🧗🏻‍♀️ Hiking / Climbing / General Outdoor Activity
 
 ## Skills
 ![C](https://img.shields.io/badge/-C-239DFF?style=flat-square&logo=c&logoColor=white)
