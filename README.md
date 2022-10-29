@@ -2,7 +2,7 @@
 
 - 🔭 SJTU -> UCSD
 - 🎸 Guitar / Violin / Anime
-- 🤔 Love Mathematics / Robotics / Coding
+- 🤔 Mathematics / Robotics / Coding
 - 🧗🏻‍♀️ Hiking / Climbing / General Outdoor Activity
 
 ## Skills
